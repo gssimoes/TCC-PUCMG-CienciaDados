@@ -1,0 +1,4 @@
+https://dadosabertos.mec.gov.br/images/conteudo/fies/2020/relatorio_inscricao_dados_abertos_fies_22020.csv
+O arquivo foi carregado zipado pela limitação de até 25Mb dos arquivos do GITHUB.
+Dados obtidos em 04/03/2023, cuja publicação foi feita pelo MEC EM 18/10/2021.
+Os dados são relativos à inscrições para FIES no período 2020/2. Dados de demais períodos podem ser obtidos em https://dados.gov.br/dados/conjuntos-dados/mec-fundo-de-financiamento-estudantil-fies
